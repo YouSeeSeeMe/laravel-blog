@@ -12,7 +12,7 @@
         <meta property="og:type" content="article">
         <meta property="og:locale" content="zh_CN" />
         <!-- talkingdata -->
-        <script src="http://sdk.talkingdata.com/app/h5/v1?appid=CA7156ED75114910BED0ACD39274EDDD&vn=fidding博客&vc=1.0.0"></script>
+        <script src="http://sdk.talkingdata.com/app/h5/v1?appid=51B38F2109904BAE938164363FFA34F4&vn=YouSeeSeeMe博客&vc=1.0.0"></script>
     </head>
     <body class="home">
         <header class="header">
@@ -28,10 +28,10 @@
                 <div class="navbar-top clearfix">
                     <div class="container">
                         <div class="pull-left">
-                            <a><em class="fa fa-user"></em>&nbsp;&nbsp;洪加煌技术博客</a>
+                            <a><em class="fa fa-user"></em>&nbsp;&nbsp;YouSeeSeeMe</a>
                         </div>
                         <div class="pull-right social-icons">
-                            <a class="social-icon pull-right" rel="nofollow" href="https://github.com/fidding" target=_blank><em class="fa fa-github"></em></a>
+                            <a class="social-icon pull-right" rel="nofollow" href="https://github.com/YouSeeSeeMe" target=_blank><em class="fa fa-github"></em></a>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                             <em class="fa fa-navicon"></em>
                         </button>
                         <a class="navbar-brand" href="/">
-                            <img title="洪加煌博客" alt="洪加煌博客" src="/images/logo.png" />
+                            <img title="王建峰博客" alt="王建峰博客" src="/images/logo.png" />
                         </a>
                         <button type="button" class="navbar-btn btn-icon btn-circle pull-right visible-xs" data-toggle="collapse" data-target="#header-search-form" aria-expanded="true">
                             <em class="fa fa-search"></em>

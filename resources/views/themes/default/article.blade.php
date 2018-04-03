@@ -58,12 +58,8 @@
                 <div class="donate clearfix">
                     <p>如果喜欢我的文章，不介意的话请杯咖啡吧~</p>
                     <div class="donate-box col-md-3 col-sm-4 col-xs-10">
-                        <p class="text-center bold">支付宝</p>
-                        <img src="/donate/lADPBbCc1UxddObNA8zNAsw_716_972.jpg" />
-                    </div>
-                    <div class="donate-box col-md-3 col-sm-4 col-xs-10">
                         <p class="text-center bold">微信</p>
-                        <img src="/donate/lALPBbCc1Uxilj7NA2LNArs_699_866.png" />
+                        <img src="/donate/wpay1.jpg" />
                     </div>
                 </div>
                 <div class="share">
@@ -120,7 +116,7 @@
                         <p>持久不退的热情才是天分
                         </p>
                         <div class="social-icons text-center">
-                            <a class="social-icon" href="https://github.com/fidding/" title="github" target="_blank">
+                            <a class="social-icon" href="https://github.com/youseeseeme/" title="github" target="_blank">
                                 <em class="fa fa-github"></em>
                             </a>
                         </div>

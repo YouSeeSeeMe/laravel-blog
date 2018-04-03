@@ -4,7 +4,7 @@ Blog system development based on laravel  5.1.*
 
 ## Demo
 
-演示地址：http://www.fidding.me/
+演示地址：
 
 ### Usage
 ---
@@ -12,7 +12,7 @@ Blog system development based on laravel  5.1.*
 
 	```
 	cd www #你的服务器放网站的目录
-	git clone https://github.com/fidding/laravel-blog.git
+	git clone https://github.com/YouSeeSeeMe/laravel-blog.git
 	```
 
 1. 切换到 laravel-blog 所在目录，使用composer 更新项目

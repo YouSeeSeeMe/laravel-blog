@@ -29,7 +29,7 @@
                         <a>{{ $article->click }}</a>
                     </span>
                     <!-- <span class="entry-separator">/</span>by
-                         <a href="" class="entry-author">洪加煌</a> -->
+                         <a href="" class="entry-author">王建峰</a> -->
                     <a href="{{ route('article.show',array('id'=>$article->id)) }}" class="entry-readmore text-right pull-right">
                         阅读全文
                         <em class="fa fa-angle-right"></em>

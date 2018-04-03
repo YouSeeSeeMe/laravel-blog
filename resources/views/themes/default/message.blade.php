@@ -70,13 +70,13 @@
                 <h4>联系我</h4>
                 <ul class="contact-list">
                     <li>
-                        Q Q：395455856
+                        Q Q：993200496
                     </li>
-                    <li>邮箱：395455856@qq.com</li>
+                    <li>邮箱：993200496@qq.com</li>
                 </ul>
                 <h4>更多</h4>
                 <div class="social-icons">
-                    <a rel="nofollow" href="https://github.com/fidding" target="_blank" alt="github" title="github"><em class="fa fa-github"></em></a>
+                    <a rel="nofollow" href="https://github.com/youseeseeme" target="_blank" alt="github" title="github"><em class="fa fa-github"></em></a>
                 </div>
 
             </div>
