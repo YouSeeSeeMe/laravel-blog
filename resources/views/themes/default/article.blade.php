@@ -66,22 +66,24 @@
                     <div class="share-bar"><span style="color: #999">分享: </span>&nbsp;</div>
                 </div>
                 <!-- 来必力City版安装代码 -->
-                <div id="lv-container" data-id="city" data-uid="MTAyMC8zNDE1Ny8xMDY5NA==">
+                <!-- 来必力City版安装代码 -->
+                <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTYyOC8xMjE2NA==">
                     <script type="text/javascript">
-                     (function(d, s) {
-                         var j, e = d.getElementsByTagName(s)[0];
+                   (function(d, s) {
+                       var j, e = d.getElementsByTagName(s)[0];
 
-                         if (typeof LivereTower === 'function') { return; }
+                       if (typeof LivereTower === 'function') { return; }
 
-                         j = d.createElement(s);
-                         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-                         j.async = true;
+                       j = d.createElement(s);
+                       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                       j.async = true;
 
-                         e.parentNode.insertBefore(j, e);
-                     })(document, 'script');
+                       e.parentNode.insertBefore(j, e);
+                   })(document, 'script');
                     </script>
-                    <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+                <noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
                 </div>
+                <!-- City版安装代码已完成 -->
                 <!-- City版安装代码已完成 -->
                 <!-- <div class="comment"> -->
                 <!-- <div class="comments"> -->
