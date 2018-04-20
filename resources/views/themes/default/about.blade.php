@@ -1,7 +1,7 @@
 @extends('themes.default.layouts')
 
 @section('header')
-    <title>关于我-{{ systemConfig('title','fidding Blog') }}</title>
+    <title>关于我-{{ systemConfig('title','youseeseeme Blog') }}</title>
     <meta name="keywords" content="{{ $userInfo->name }},{{ systemConfig('seo_key') }}" />
     <meta name="description" content="{!! str_limit(preg_replace('/\s/', '',strip_tags(conversionMarkdown($userInfo->desc))),100) !!}">
 @endsection

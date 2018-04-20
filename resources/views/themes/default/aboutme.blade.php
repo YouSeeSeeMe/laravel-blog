@@ -1,7 +1,7 @@
 @extends('themes.default.layouts')
 
 @section('header')
-    <title>关于我-{{ systemConfig('title','fidding Blog') }}</title>
+    <title>关于我-{{ systemConfig('title','youseeseeme Blog') }}</title>
     <meta name="keywords" content="关于我 王建峰  技术博客 前端工程师" />
     <meta name="description" content="关于我 王建峰  技术博客 前端工程师">
 @endsection

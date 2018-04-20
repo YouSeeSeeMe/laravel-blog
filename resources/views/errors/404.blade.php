@@ -1,7 +1,7 @@
 @extends('themes.default.layouts')
 
 @section('header')
-    <title>404_{{ systemConfig('title','Fidding Blog') }}_Powered By{{ systemConfig('subheading','Fidding Blog') }}</title>
+    <title>404_{{ systemConfig('title','youseeseeme Blog') }}_Powered By{{ systemConfig('subheading','youseeseeme Blog') }}</title>
     <meta name="keywords" content="{{ systemConfig('seo_key') }}" />
     <meta name="description" content="{{ systemConfig('seo_desc') }}">
 @endsection

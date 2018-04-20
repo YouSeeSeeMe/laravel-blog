@@ -36,7 +36,7 @@
                     <div class="form-group">
                         <label for="url">链接地址</label>
                         <div class="">
-                            <input type="text" name="url" class="form-control" placeholder="http://www.fidding.me/" value="{{$link->url?$link->url:''}}" />
+                            <input type="text" name="url" class="form-control" placeholder="http://www.wangjianfeng.net/" value="{{$link->url?$link->url:''}}" />
                             <font color="red">{{ $errors->first('url') }}</font>
                         </div>
                     </div>

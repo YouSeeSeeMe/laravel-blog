@@ -56,7 +56,7 @@
 		    </div>
             <!-- END panel-->
             <div class="p-lg text-center">
-                Copyright © 2016 fidding All Rights Reserved
+                Copyright © 2018 youseeseeme All Rights Reserved
                 @if(systemConfig('put_on_record'))
                     | <a href="http://www.miitbeian.gov.cn/"> {{ systemConfig('put_on_record') }}</a>
                 @endif

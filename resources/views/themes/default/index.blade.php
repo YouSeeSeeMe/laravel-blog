@@ -1,7 +1,7 @@
 @extends('themes.default.layouts')
 
 @section('header')
-    <title>{{ systemConfig('title','fidding Blog') }}</title>
+    <title>{{ systemConfig('title','youseeseeme Blog') }}</title>
     <meta name="keywords" content="{{ systemConfig('seo_key') }}" />
     <meta name="description" content="{{ systemConfig('seo_desc') }}">
 @endsection
