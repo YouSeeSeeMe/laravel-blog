@@ -1,6 +1,5 @@
 <?php
 /**
- * User: 洪加煌<395455856@qq.com>
  */
 use Illuminate\Database\Seeder;
 class NavSeeder extends Seeder{

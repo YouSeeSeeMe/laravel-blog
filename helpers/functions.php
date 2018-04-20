@@ -1,13 +1,13 @@
 <?php
 
 /**
- * User: 洪加煌<395455856@qq.com>
+ * User: 王建峰<993200496@qq.com>
  */
 //use Config;
 if (!function_exists('baiduPush')) {
     /**
      * 百度文章主动推送
-     * @author 洪加煌
+     * @author 王建峰
      * @param  string $articleId
      * @return object
      */
@@ -38,7 +38,7 @@ if (!function_exists('baiduPush')) {
 if (!function_exists('homePlugin')) {
     /**
      * 第三方插件
-     * @author 洪加煌
+     * @author 王建峰
      * @param  string $path
      * @param  bool $secure
      * @return string
@@ -53,7 +53,7 @@ if (!function_exists('homePlugin')) {
 if(!function_exists('treeArr') && !function_exists('findTreeChildById')) {
     /**
      * 无限分级导航
-     * @author 洪加煌
+     * @author 王建峰
      * @param  object $model
      * @param  number $parentId
      * @return array
@@ -80,16 +80,11 @@ if(!function_exists('treeArr') && !function_exists('findTreeChildById')) {
     }
 }
 
-/**
- * User: 袁超<yccphp@163.com>
- * Time: 2015.03.18 下午4:08
- */
 
 
 if (!function_exists('backendView')) {
     /**
      * 展示后台view
-     * @author 袁超
      * @param  string $view
      * @param  array $data
      * @param  array $mergeData
@@ -113,7 +108,6 @@ if (!function_exists('backendView')) {
 if (!function_exists('conversionClassPath')) {
     /**
      * 转换class 名
-     * @author 袁超
      * @param  string $className
      * @return string
      */
@@ -130,7 +124,6 @@ if (!function_exists('conversionClassPath')) {
 if (!function_exists('homeView')) {
     /**
      * 展示前台view
-     * @author 袁超
      * @param  string $view
      * @param  array $data
      * @param  array $mergeData

@@ -4,7 +4,7 @@
 	    <meta charset="utf-8">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
-	    <title>洪加煌博客系统</title>
+	    <title>王建峰博客系统</title>
         <link rel="stylesheet" href="{{ homePlugin('/fontawesome/css/font-awesome.min.css') }}">
         <link rel="stylesheet" href="{{ homePlugin('/simple-line-icons/css/simple-line-icons.css') }}">
         <link rel="stylesheet" href="{{ homePlugin('/animate.css/animate.min.css') }}">
@@ -187,7 +187,7 @@
             </section>
             <!-- Page footer-->
             <footer>
-                <span>Designed and Developed by 洪加煌. All rights reserved. &copy; 2016</span>
+                <span>Designed and Developed by 王建峰. All rights reserved. &copy; 2018</span>
             </footer>
 
         </div>
