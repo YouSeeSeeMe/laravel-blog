@@ -57,7 +57,7 @@
                 <!-- donate -->
                 <div class="donate clearfix">
                     <p>如果喜欢我的文章，不介意的话请杯咖啡吧~</p>
-                    <div class="donate-box col-md-3 col-sm-4 col-xs-10">
+                    <div class="donate-box col-md-5 col-sm-6 col-xs-10">
                         <p class="text-center bold">微信</p>
                         <img src="/donate/wpay1.jpg" />
                     </div>
