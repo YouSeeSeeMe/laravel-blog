@@ -14,8 +14,8 @@
                     <h1 class="collection-header">留言</h1>
                     <div class="collection-info">
                         <span class="meta-info">
-                            get busy living or get busy dying.</br>
-                            持久不退的热情才是天分
+                            <!-- get busy living or get busy dying.</br> -->
+                            你的闲暇往往定你的终身
                         </span>
                     </div>
                 </div>

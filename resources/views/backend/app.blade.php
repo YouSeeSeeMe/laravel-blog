@@ -109,7 +109,7 @@
                                         <!-- Name and Job-->
                                         <div class="user-block-info">
                                             <span class="user-block-name">Hello, {{Auth::user()->name}}</span>
-                                            <span class="user-block-role">全栈工程师</span>
+                                            <span class="user-block-role">前端工程师</span>
                                         </div>
                                     </div>
                                 </div>

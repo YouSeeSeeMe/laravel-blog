@@ -56,7 +56,7 @@
                 </article>
                 <!-- donate -->
                 <div class="donate clearfix">
-                    <p>如果喜欢我的文章，不介意的话请杯咖啡吧~</p>
+                    <p>如果我的文章对你有帮助，可以请我喝杯咖啡的~哈哈</p>
                     <div class="donate-box col-md-5 col-sm-6 col-xs-10">
                         <p class="text-center bold">微信</p>
                         <img src="/donate/wpay1.jpg" />
@@ -115,8 +115,7 @@
                         </div>
                     </div>
                     <div class="about-me">
-                        <p>持久不退的热情才是天分
-                        </p>
+                        <p>你的闲暇往往定你的终身</p>
                         <div class="social-icons text-center">
                             <a class="social-icon" href="https://github.com/youseeseeme/" title="github" target="_blank">
                                 <em class="fa fa-github"></em>

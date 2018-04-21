@@ -6,7 +6,7 @@
 	    <div class="row">
 		    <div class="panel panel-default">
 			    <div class="panel-body">
-				    持久不退的热情才是天份
+				    你的闲暇往往定你的终身
 			    </div>
 		    </div>
 	    </div>
