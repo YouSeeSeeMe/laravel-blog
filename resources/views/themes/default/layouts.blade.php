@@ -94,9 +94,14 @@
             <div class="site-footer" role="contentinfo">
                 <div class="container">
                     <blockquote class="blockquote-reverse">
-                        <p>每天起床，我看见的世界上的每个人，都好像都披着一层膜，无法穿透。这种感觉很奇怪，有点悲哀，可是没有办法改变。这些人的动作举止，为什么这么不一样？是不是因为，他们来的世界就是这么不一样？若是这样，那我要更努力、更努力，把我自己推到那个世界去。
+                        <p>
+                            只有你全力热爱自己的身体，才能有余力热爱这个美丽的世界。
+                            <br />
+                            你来人间一趟，应该晒晒太阳，和心爱之人走在大街上。
+                            <br />
+                            好好爱自己，才是余生浪漫的开始。
                         </p>
-                        <footer><cite title="Source Title">风雨哈佛路</cite></footer>
+                        <footer><cite title="Source Title">可以一成不变，也可以立即改变！</cite></footer>
                     </blockquote>
                 </div>
                 <div class="copyright text-center">
