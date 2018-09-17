@@ -37,8 +37,8 @@
                         请联系开发者！
                     </div>
                 @endif
-                <!-- <h3 class="title-underblock dark">留言</h3> -->
-                <form action="{{url('message')}}" method="post">
+                <h3 class="title-underblock dark">暂时关闭</h3>
+                <!-- <form action="{{url('message')}}" method="post">
                     <input type="hidden" name="_token" value="{{csrf_token()}}"/>
                     <div class="form-group">
                         <label class="input-desc" for="username">
@@ -53,18 +53,18 @@
                             <font color="red">{{$errors->first('email')}}</font>
                         </label>
                         <input type="email" class="form-control input-border-bottom" id="email" name="email" placeholder="请输入您的邮箱">
-                    </div><!-- End .from-group -->
+                    </div>
                     <div class="form-group">
                         <label for="content" class="input-desc">
                             内容
                             <font color="red">{{$errors->first('content')}}</font>
                         </label>
                         <textarea class="form-control input-border-bottom" rows="6" id="contactmessage" name="content" placeholder="请输入留言内容" ></textarea>
-                    </div><!-- End .from-group -->
+                    </div>
                     <div class="form-group">
                         <input type="submit" class="btn btn-dark btn-border min-width no-radius" value="留言">
-                    </div><!-- End .from-group -->
-                </form>
+                    </div>
+                </form> -->
             </div>
             <div class="col-md-3 mt30">
                 <h4>联系我</h4>
